@@ -1,11 +1,11 @@
 #Transformer Project
 
-#Author
+##Author
 
-66114540366
+* 66114540366
 
-นายบรรณวัชร ศรีภักดี
+* นายบรรณวัชร ศรีภักดี
 
-#Project Features
+##Project Features
 
-#Django SSE
+* Django SSE
