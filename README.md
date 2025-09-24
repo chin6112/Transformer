@@ -54,7 +54,8 @@
 ### องค์ประกอบของ MCP
 1. **Agent** → ตัวดำเนินการหลักที่ตัดสินใจ  
 2. **Client** → ฝั่งที่เรียกใช้งาน Agent หรือให้ input  
-3. **Tools / Resources** → ระบบภายนอก เช่น ฐานข้อมูล, API, เครื่องมือวิเคราะห์  
+3. **Tools / Resources** → ระบบภายนอก เช่น ฐานข้อมูล, API, เครื่องมือวิเคราะห์
+
 ℹ️ อ่านเพิ่มเติม: [OpenAI — MCP Documentation](https://openai.github.io/openai-agents-python/mcp/?utm_source=chatgpt.com), [Microsoft TechCommunity — MCP Integrations](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/model-context-protocol-mcp-integrating-azure-openai-for-enhanced-tool-integratio/4393788?utm_source=chatgpt.com)
 
 ---
